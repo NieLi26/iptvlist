@@ -1,3 +1,56 @@
+#EXTM3U
+#
+#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+#
+#*****************************
+#   Index
+#   
+#   Lo Mas Visto
+#   Chileiptv
+#   Canales Chilenos
+#   Canales Chilenos Regionales
+#   Diarios Chilenos
+#   Canales de Animacion
+#   Canales Juveniles
+#   Canales de Cultura
+#   Canales de Latinos
+#   Canales de Cine
+#   Canales de Noticias
+#   Canales de Deportes
+#   Canales Argentinos
+#   Canales Brasileños
+#   Canales Bolivianos
+#   Canales Colombianos
+#   Canales Costarricenses
+#   Canales Dominicanos
+#   Canales Ecuatorianos
+#   Canales Españoles
+#   Canales Guatemaltecos
+#   Canales Haitianos
+#   Canales Hondureños
+#   Canales Mexicanos
+#   Canales Panameños
+#   Canales Paraguayos
+#   Canales Peruanos
+#   Canales Puertorriqueños
+#   Canales Salvadoreños
+#   Canales Uruguayos
+#   Canales Venezolanos
+#   Canales Australianos
+#   Canales Ingleses
+#   Canales Italianos
+#   Canales Japoneses
+#   Canales Koreanos
+#   Canales Miscelaneos
+#   Radios Chilenas
+#   Radios Chilenas con Video
+#   Radios Internacionales
+#   Radios Online
+#   Canales de Musica
+#   Musica
+#   XXX Adultos
+#   
+#*****************************
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Mas Visto", -[COLOR red]Lo Mas Visto[/COLOR]-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lo Mas Visto", Locomotion | SD
@@ -18,7 +71,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Chileiptv", -[COLOR red]Chileiptv[/COLOR]-
+
 
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv", Telet�n TV
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistCHILEIPTVCL
