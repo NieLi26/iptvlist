@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Mas Visto", -[COLOR red]Lo Mas Visto[/COLOR]-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lo Mas Visto", Locomotion | SD
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1528172622.png" group-title="Lo Mas Visto", Cachipun | SD
+http://23.236.180.26/11580409776/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Lo Mas Visto", Contivision | HD
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8#l
+
+#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="Lo Mas Visto", Boing | SD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Lo Mas Visto", PORTAL FOXMIX | SD
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
