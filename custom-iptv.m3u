@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TVN test" tvg-logo="https://estaticos.tvn.cl/skins/web-assets/images/banners-home/2022/olmue/banner_superior_olmuecompetencia.png" group-title="TEST LIST ",US MC Radio | '70s
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/3986aed1c7744df38e9b5456285ae147/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/45c31400-c9ba-4213-8201-baa7544fa6b7/0.m3u8?aid=51c2f628b440bd797900051f&uid=l5Py8cvmjFDN0pVSHzCEOJ0hACRFcJDD&sid=VGf4M6NPfzZMtmPNLlQu92m33qWuX282&pid=XFo7xYcxR6fMuz6GTQfkWsyhJRmIg6np&ref=https%3A%2F%2Ftoken.tvn.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=eE8kznjkRpXudM3X5JeU0qvdAKzlx366L4aQ9uYEyCOtehgHFUd1nEEQTSHieGsrbBySUeq75P8&es=cl-a3-p-e-uy6.cdn.mdstrm.com&ote=1667933517485&ot=YrMTkWVTzFiznRtSVEqvLA&proto=https&pz=cl
 #EXTINF:-1 tvg-id="" tvg-name="US MC Radio | '70s" tvg-logo="" group-title="MUSIC CHOICE  // QUANTUM RADIO STATIONS",US MC Radio | '70s
 http://ultrontv.xyz:80/new123/new123/84423
 #EXTINF:-1 tvg-id="" tvg-name="US MC Radio | '80s" tvg-logo="" group-title="MUSIC CHOICE  // QUANTUM RADIO STATIONS",US MC Radio | '80s
